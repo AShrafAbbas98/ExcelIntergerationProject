@@ -48,15 +48,15 @@
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="RevitAPI">
-      <HintPath>..\..\..\..\..\..\01 Freelance\00 Packages\_Revit2023\RevitAPI.dll</HintPath>
+      <HintPath>E:\01 Freelance\00 Packages\_Revit2023\RevitAPI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="RevitAPIIFC">
-      <HintPath>..\..\..\..\..\..\01 Freelance\00 Packages\_Revit2023\RevitAPIIFC.dll</HintPath>
+      <HintPath>E:\01 Freelance\00 Packages\_Revit2023\RevitAPIIFC.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="RevitAPIUI">
-      <HintPath>..\..\..\..\..\..\01 Freelance\00 Packages\_Revit2023\RevitAPIUI.dll</HintPath>
+      <HintPath>E:\01 Freelance\00 Packages\_Revit2023\RevitAPIUI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
