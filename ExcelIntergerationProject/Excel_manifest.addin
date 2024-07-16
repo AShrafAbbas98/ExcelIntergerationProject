@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>ExcelIntergeration</Name>
+		<Assembly>ExcelIntergerationProject.dll</Assembly>
+		<FullClassName>ExcelIntergerationProject.Command</FullClassName>
+		<Text>ExcelIntergeration</Text>
+		<Description>This plugin integerate with Excel</Description>
+		<AddInId>
+			9B06467B-682E-4090-9742-0E2CCB657598
+		</AddInId>
+		<VendorId>Ashraf</VendorId>
+		<VendorDescription>BIM Developer, ashrafabbasramadan@gmail.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
+
